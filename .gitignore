@@ -5,3 +5,14 @@
 
 # Ignore other sensitive files
 config/*.json
+
+# Ignore environment variable files
+.env
+.env.local
+.env.*.local
+
+# Ignore other sensitive files
+config/*.json
+
+# Ignore directories
+00_Documents/  # Ignoring documents directory for privacy reasons
