@@ -1,0 +1,15 @@
+[submodule "CherrySpotApp"]
+	path = CherrySpotApp
+	url = https://github.com/maticyorg/CherrySpot/tree/CherrySpotApp
+
+[submodule "Evilcorp"]
+	path = ../Evilcorp
+	url = https://github.com/maticyorg/CherrySpot/tree/Evilcorp
+
+[submodule "functions"]
+	path = ../functions
+	url = https://github.com/maticyorg/CherrySpot/tree/functions
+
+[submodule "Vanilj"]
+	path = ../Vanilj
+	url = https://github.com/maticyorg/CherrySpot/tree/Vanilj
