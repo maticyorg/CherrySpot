@@ -1,0 +1,2 @@
+const videosList = querySnapshot.docs.map((doc) => doc.data());
+console.log("Hämtade videos:", videosList);

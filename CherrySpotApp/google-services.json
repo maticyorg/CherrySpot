@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686011950761",
+    "project_id": "cherry-438015",
+    "storage_bucket": "cherry-438015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686011950761:android:4a7f52e18545f9968e2bb8",
+        "android_client_info": {
+          "package_name": "com.ballstreeet.cherryspotapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPyFMUY2uTf7dM0Oka84PAIHINPL8t65I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
